@@ -1,0 +1,5 @@
+mysql:
+  user: nihao
+ 
+person:
+  name: zhangsan
